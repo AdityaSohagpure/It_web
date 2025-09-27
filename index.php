@@ -60,12 +60,12 @@
 
         <div class="header-bottom-wrap">
             <div class="container">
-                <div class="row">
+                
                     <div class="col-lg-12">
                         <div class="header position-relative">
                             <!-- brand logo -->
                             <div class="header__logo top-logo">
-                                <a href="index-2.html">
+                             
                                     <img src="assets/images/logo/centgix_logo.png" aria-label="centgix Logo" width="160" height="48" class="img-fluid" alt="">
                                 </a>
                             </div>
