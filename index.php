@@ -79,7 +79,7 @@
                                             <input class="search-field" type="text" placeholder="Search…">
                                             <button class="search-submit">
                                                 <i class="search-btn-icon fa fa-search"></i>
-                                            </button>
+                                          
                                         </form>
                                     </div>
 
